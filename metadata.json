@@ -1,0 +1,6 @@
+{
+  "name": "Pastibisa - English Reading & Vocab Recall",
+  "description": "Import English PDF articles, identify words and phrases with interactive translation popups, organize articles into folders, and practice vocabulary with Vocab Recall and spaced repetition.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
